@@ -1,0 +1,52 @@
+[
+  {
+    "nama": "Syanadhi Majid",
+    "umur": 22,
+    "lulus": false,
+    "hobby": ["coding", "gaming"],
+    "Project IOT": {
+      "Project 1": "Tempat Sampah Otomatis"
+    },
+    "Project Alat Praktikum": {
+      "Project 1": "Alarm Pintu Otomatis",
+      "Project 2": "Dadu Digital",
+      "Project 3": "Light Detector Resistor"
+    },
+    "Sertifikat Course": {
+      "1.": "Revou - Data Analytics",
+      "2.": "Myskill - Intro to SQL",
+      "3.": "Myskill - Pivot Table",
+      "3.": "Rakamin - Data Science",
+      "4.": "Embedded System Competition",
+      "5.": "HariSenin - Coding Camp",
+      "6.": "Technofair - UI/UX",
+      "7.": "Technofair - Competitive Programming Competition",
+      "8.": "Technofair - Capture The Flag",
+      "9.": "Pelatihan - Network Connecticity",
+      "10.": "Pelatihan - Network Requirement Identification",
+      "11.": "Pelatihan - Drone"
+    }
+  },
+  {
+    "nama": "Syanadhi Majid",
+    "umur": 22,
+    "lulus": false,
+    "hobby": ["coding", "gaming"],
+    "Project IOT": {
+      "Project 1": "Tempat Sampah Otomatis"
+    },
+    "Project Alat Praktikum": {
+      "Project 1": "buzzer otomatis",
+      "Project 2": "alarm pintu otomatis"
+    },
+    "Sertifikat Course": {
+      "1.": "Revou",
+      "2.": "Myskill",
+      "3.": "Rakamin",
+      "4.": "Embedded System Competition",
+      "5.": "HariSenin",
+      "6.": "Technofair",
+      "7.": "Pelatihan"
+    }
+  }
+]
